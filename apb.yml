@@ -1,3 +1,4 @@
+version: 1.0
 name: pyzip-demo-db-apb
 image: ansibleplaybookbundle/pyzip-demo-db-apb
 description: Python Zip Demo Database APB Implementation
